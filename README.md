@@ -1,9 +1,6 @@
 
 # 📊 Stock Price Prediction Web App
 
-[![Live App](https://img.shields.io/badge/🚀%20Launch%20App-Streamlit-green?style=for-the-badge)](https://stock-price-prediction-hybridmodel.streamlit.app/)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-
 ## 🌐 Live App
 
 👉 Access the deployed app here: [Stock Price Prediction Dashboard](https://stock-price-prediction-hybridmodel.streamlit.app/)
@@ -128,16 +125,7 @@ streamlit run streamlit_app.py
 - Enter a stock ticker (e.g., AAPL, GOOGL)  
 - View predictions, trends, and trading recommendations
 
----
 
-## 👥 Project Team
-
-- **Vignesh S** – Model Building & Training  
-- **Umar Farooq** – Front-End Design & Exploratory Data Analysis  
-- **Vikram** – Data Cleaning & Feature Engineering  
-- **Sheshathri** – Documentation & Reporting
-
----
 
 > ⚠️ **Academic Integrity Notice**  
 > This project was developed by **Vignesh S and Team** for academic use at **Priyadarshini Engineering College**. Unauthorized copying, modification, or submission of this project as your own academic or commercial work is strictly prohibited..
