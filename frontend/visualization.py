@@ -470,7 +470,6 @@ def render_stock_visualizations(results):
             st.error(f"Error displaying confusion matrix or ROC curve: {str(e)}")
             
         st.markdown("---")
-        st.subheader("Project Team")
         st.markdown("""
         <style>
         .team-container {
